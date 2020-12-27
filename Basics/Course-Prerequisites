@@ -27,6 +27,7 @@
 	  ⁃	Prerequisite :
 	    ⁃	Virtualisation to be enabled in BIOS [Which requires reboot of machine]
 	    ⁃	Some cases, you may also need to enable HYPER-V
+	    -   How to enable HYPER-V in windows [Start —> Control panel —> Programs —> Under Programs and Features select “Turn Windows features on or off” —> Enable all the boxes	which are relevant for HYPER-V]
 	  ⁃	Post install :
 	    ⁃	Start docker engine
 	    ⁃	Assign ample amount of resource to Docker engine.
